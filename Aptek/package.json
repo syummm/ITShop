@@ -1,0 +1,13 @@
+{
+  "name": "itshop",
+  "version": "1.0.0",
+  "description": "ITShop - Marketplace Kampus ITS",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.48.1",
+    "browser-image-compression": "^2.0.2"
+  }
+}
